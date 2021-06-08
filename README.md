@@ -1,3 +1,12 @@
+
+# LAB - 02
+
+### Description
+
+Created/updataed project by using react.js and Bootstrap libraries.
+
+*Author: Duaa Abu-Dhaim*
+
 # Time Estimate
 
 Number and name of feature: **Feature #1: Display images**
